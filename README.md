@@ -1,16 +1,13 @@
 # productos_app
 
 A new Flutter project.
+Inicio de Sesion Censillo
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/56771357/223471655-ce86ca9d-472f-4e89-acd4-01c4be1708b2.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Validaciones de Campos
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![image](https://user-images.githubusercontent.com/56771357/223471863-e5528001-7c59-41a1-beb3-3733a88ad820.png)
