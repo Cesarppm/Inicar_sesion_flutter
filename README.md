@@ -12,5 +12,6 @@ Inicio de Sesion Censillo
 Validaciones de Campos
 
 <p align="center">
+  
 ![image](https://user-images.githubusercontent.com/56771357/223471863-e5528001-7c59-41a1-beb3-3733a88ad820.png)
   </p>
